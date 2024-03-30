@@ -42,7 +42,7 @@ int main() {
     printf("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
     
     // Input from user
-    printf("\nEnter Your Name (e.g : Aliff): ");
+    printf("\nEnter Your Name (e.g : Arif): ");
     scanf("%s", name);
     printf("-- Your Name is Valid :v --\n");
     
